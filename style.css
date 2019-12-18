@@ -1,0 +1,16 @@
+body{
+  
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display'); 
+  background-color:rgb(29, 20, 9);
+  color:green;
+}
+h2{
+  color: maroon;
+}
+p img{
+
+  boarder-radius:1em;
+}
+.rounded{
+  border-radius: 100px
+}
